@@ -1,6 +1,6 @@
 ## Hey, I'm Madhav Menon!
 
-## I'm  majoring in Computer Science and Physics at the University of Illinois Urbana-Champaign
+### I'm  majoring in Computer Science and Physics at the University of Illinois Urbana-Champaign
 
 <!--
 **MadhavMenon10/MadhavMenon10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
