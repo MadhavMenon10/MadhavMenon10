@@ -1,6 +1,6 @@
 ## Hey, I'm Madhav Menon!
 
-\# 💫 About Me:
+# 💫 About Me:
 Hey, I'm Madhav Menon!<br><br>I'm majoring in Computer Science and Physics at the University of Illinois Urbana-Champaign<br><br>To be added
 
 
