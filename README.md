@@ -5,3 +5,4 @@ Undergrad majoring in Computer Science and Physics @ University of Illinois Urba
 Currently working on: Competitive Programming
 
 ## Experience
+[DigiAlert](https://digialert.com/)
