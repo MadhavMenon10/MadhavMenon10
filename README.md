@@ -10,4 +10,3 @@ Currently working on: Competitive Programming
 ## Contact
 You can reach me at my:
 - LinkedIn: [https://www.linkedin.com/in/madhav-menon-867009217/](https://www.linkedin.com/in/madhav-menon-867009217/)
-- Email: madhavanandmenon@gmail.com
