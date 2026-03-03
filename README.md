@@ -19,8 +19,29 @@ Currently working on: Competitive Programming
     <li>Spring 2026 (current): CS 233 (Computer Architecture), CS 222 (Software Design Lab), MATH 442 (Intro to Partial Differential Equations), MATH 461 (Probability Theory), PHYS 325 (Classical Mechanics I), PHYS 246 (Intro to Computational Physics)</li>
 </ul>
 </details>
-
-
+<details>
+<summary>International Baccalaureate (Jul. 2022 - May. 2024)</summary>
+<ul>
+    <li>Higher Level Physics</li>
+    <li>Higher Level Mathematics</li>
+    <li>Higher Level Chemistry</li>
+    <li>Standard Level Economics</li>
+    <li>Standard Level English Language and Literature</li>
+    <li>Standard Level Spanish</li>
+</ul>
+</details>
+<summary>Cambridge IGCSE(Jul. 2020 - May. 2022)</summary>
+<ul>
+    <li>Computer Science</li>
+    <li>Additional Mathematics</li>
+    <li>International Mathematics</li>
+    <li>Coordinated Science</li>
+    <li>Economics</li>
+    <li>Business Studies</li>
+    <li>Spanish - Foreign Language</li>
+    <li>English - First Language</li>
+</ul>
+</details>
 
 ## Contact
 You can reach me at my:
