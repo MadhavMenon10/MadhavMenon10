@@ -30,6 +30,7 @@ Currently working on: Competitive Programming
     <li>Standard Level Spanish</li>
 </ul>
 </details>
+<details>
 <summary>Cambridge IGCSE(Jul. 2020 - May. 2022)</summary>
 <ul>
     <li>Computer Science</li>
