@@ -12,12 +12,10 @@ Currently working on: Competitive Programming
 <details open>
 <summary>Undergraduate (Aug. 2024 - May. 2028)</summary>
 <ul>
-<li> markdown list 1</li>
-<ul>
-<li> nested list 1</li>
-<li> nested list 2</li>
-</ul>
-<li> markdown list 2</li>
+    <li>Fall 2024: CS 124 H (Honours Intro to CS I), MATH 231E (Engineering Calculus II), PHYS 211 (University Physics: Mechanics);  LING 115 (Language and Culture in India)</li>
+    <li>Spring 2025: CS 128 (Intro to CS II), MATH 314 H (Honours Intro to Higher Math), MATH 241 (Calculus III), PHYS 212 (University Physics: E&M)</li>
+    <li>Fall 2025: CS 225 H (Honours Data Structures), MATH 416 H (Honours Abstract Linear Algebra), MATH 441 (Differential Equations), PHYS 225 (Relativity & Math Methods), PHYS 213 (University Physics: Thermodynamics), PHYS 214 (University Physics: Quantum Physics)</li>
+    <li>Spring 2026 (current): CS 233 (Computer Architecture), CS 222 (Software Design Lab), MATH 442 (Intro to Partial Differential Equations), MATH 461 (Probability Theory), PHYS 325 (Classical Mechanics I), PHYS 246 (Intro to Computational Physics)</li>
 </ul>
 </details>
 
