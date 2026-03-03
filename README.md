@@ -9,6 +9,13 @@ Currently working on: Competitive Programming
 
 ## Courses Taken
 
+<details open>
+<summary>Undergraduate (Aug. 2024 - May. 2028/summary>
+<br>
+Test
+</details>
+
+
 ## Contact
 You can reach me at my:
 - LinkedIn: [https://www.linkedin.com/in/madhav-menon-867009217/](https://www.linkedin.com/in/madhav-menon-867009217/)
