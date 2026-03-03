@@ -10,10 +10,17 @@ Currently working on: Competitive Programming
 ## Courses Taken
 
 <details open>
-<summary>Undergraduate (Aug. 2024 - May. 2028/summary>
-<br>
-Test
+<summary>Undergraduate (Aug. 2024 - May. 2028)</summary>
+<ul>
+<li> markdown list 1</li>
+<ul>
+<li> nested list 1</li>
+<li> nested list 2</li>
+</ul>
+<li> markdown list 2</li>
+</ul>
 </details>
+
 
 
 ## Contact
