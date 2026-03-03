@@ -11,7 +11,7 @@ Currently working on: Competitive Programming
 ## Courses Taken
 
 <details>
-<summary>Undergraduate (Aug. 2024 - May. 2028)</summary>
+<summary>Undergraduate (Aug. 2024 - Present)</summary>
 <ul>
     <li>Fall 2024: CS 124 H (Honours Intro to CS I),  MATH 231E (Engineering Calculus II),  PHYS 211 (University Physics: Mechanics),  LING 115 (Language and Culture in India)</li>
     <li>Spring 2025: CS 128 (Intro to CS II), MATH 314 H (Honours Intro to Higher Math), MATH 241 (Calculus III), PHYS 212 (University Physics: E&M)</li>
