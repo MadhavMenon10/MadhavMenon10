@@ -13,6 +13,7 @@ Currently working on: Competitive Programming
 <details>
 <summary>Undergraduate (Aug. 2024 - Present)</summary>
 <ul>
+        <li> Fall 2026 (upcoming): CS 374 (Intro to Algorithms and Models of Computation), CS 411 (Databases), CS 357 (Numerical Methods), PHYS 435 (Electromagnetic Fields I)
         <li>Spring 2026 (current): CS 233 (Computer Architecture), CS 222 (Software Design Lab), MATH 442 (Intro to Partial Differential Equations), MATH 461 (Probability Theory), PHYS 325 (Classical Mechanics I), PHYS 246 (Intro to Computational Physics)</li>
        <li>Fall 2025: CS 225 H (Honours Data Structures), MATH 416 H (Honours Abstract Linear Algebra), MATH 441 (Differential Equations), PHYS 225 (Relativity & Math Methods), PHYS 213 (University Physics: Thermodynamics), PHYS 214 (University Physics: Quantum Physics)</li>
            <li>Spring 2025: CS 128 (Intro to CS II), MATH 314 H (Honours Intro to Higher Math), MATH 241 (Calculus III), PHYS 212 (University Physics: E&M)</li>
