@@ -2,7 +2,7 @@
 Undergrad majoring in Computer Science and Physics @ University of Illinois Urbana-Champaign<br>
 
 ## About
-Currently working on: Competitive Programming
+Currently working on: Competitive Programming. Interested in high performance GPU programming and low-level systems architecture.
 
 ## Experience
 - **[Disruption Lab](https://giesgroups.illinois.edu/disruptionlab/home/)**
