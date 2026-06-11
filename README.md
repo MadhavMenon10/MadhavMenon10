@@ -5,6 +5,7 @@ Undergrad majoring in Computer Science and Physics @ University of Illinois Urba
 Currently working on: Competitive Programming. Interested in high performance GPU programming and low-level systems architecture.
 
 ## Experience
+- **[Valeo](https://www.valeo.com/en/)**
 - **[Disruption Lab](https://giesgroups.illinois.edu/disruptionlab/home/)**
 - **[DigiAlert](https://digialert.com/)**: Designed and built custom CSPM that queries and visualises security metrics from AWS, including a real-time CIS v.5.0.0-based risk classification system for CloudTrail events
 
