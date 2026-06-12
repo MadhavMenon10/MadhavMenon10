@@ -35,7 +35,7 @@ Currently working on: Competitive Programming. Interested in high performance GP
 </ul>
 </details>
 <details>
-<summary>Cambridge IGCSE(Jul. 2020 - May. 2022)</summary>
+<summary>Cambridge IGCSE (Jul. 2020 - May. 2022)</summary>
 <ul>
     <li>Computer Science</li>
     <li>Additional Mathematics</li>
