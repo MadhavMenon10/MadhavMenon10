@@ -13,7 +13,7 @@ Currently working on: Competitive Programming. Interested in high performance GP
 
 <details>
 <summary>Undergraduate (Aug. 2024 - Present)</summary>
-                <ul>
+                <ul style="list-style-type = none;">
                        <li>
                          <details>
                         <summary>Fall 2026</summary>
