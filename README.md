@@ -62,9 +62,9 @@ Currently working on: Competitive Programming. Interested in high performance GP
       <li>LING 115: Language and Culture in India</li>
     </ul>
   </ul>
+</details>
 <details>
   <summary>High School</summary>
-<details>
   <ul>
     <li>IB Diploma Programme (Jul. 2022 - May. 2024)</li>
     <ul>
@@ -89,9 +89,6 @@ Currently working on: Competitive Programming. Interested in high performance GP
       <li>Spanish - Foreign Language</li>
     </ul>
   </ul>
-  
-
-
 </details>
 ## Contact
 You can reach me at my:
