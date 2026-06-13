@@ -15,9 +15,13 @@ Currently working on: Competitive Programming. Interested in high performance GP
 <details>
 <summary>Fall 2026 (Upcoming)</summary>
 - CS 374: Intro to Algorithms and Models of Computation
+  
 - CS 411: Databases
+  
 - CS 357: Numerical Methods
+  
 - PHYS 435: Electromagnetic Fields I
+  
 - MACS 100: Intro to Popular TV and Movies
 </details>
 
