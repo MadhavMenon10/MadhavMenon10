@@ -14,7 +14,7 @@ Currently working on: Competitive Programming. Interested in high performance GP
   <summary>Undergraduate (Aug. 2024 - Present)</summary>
      <ul>
        <li>Fall 2026</li>
-     </ul>
+      <ul>
       <li>CS 374: Intro to Algorithms and Models of Computation</li>
       <li>CS 411: Databases</li>
       <li>CS 357: Numerical Methods I</li>
