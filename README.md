@@ -13,6 +13,9 @@ Currently working on: Competitive Programming. Interested in high performance GP
 
 <details>
 <summary>Undergraduate (Aug. 2024 - Present)</summary>
+        <details>
+                <summary>Fall 2026</summary>
+        </details>
 <ul>
         <li> Fall 2026 (upcoming): CS 374 (Intro to Algorithms and Models of Computation), CS 411 (Databases), CS 357 (Numerical Methods), PHYS 435 (Electromagnetic Fields I)
         <li>Spring 2026 (current): CS 233 (Computer Architecture), CS 222 (Software Design Lab), MATH 442 (Intro to Partial Differential Equations), MATH 461 (Probability Theory), PHYS 325 (Classical Mechanics I), PHYS 246 (Intro to Computational Physics)</li>
