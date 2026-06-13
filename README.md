@@ -61,7 +61,7 @@ Currently working on: Competitive Programming. Interested in high performance GP
 <details>
   <summary>High School</summary>
 <details>
-<summary>IB Diploma Programme (Jul. 2022 - May. 2024)</summary>
+<summary>&nbsp;IB Diploma Programme (Jul. 2022 - May. 2024)</summary>
 - Higher Level Physics
 - Higher Level Mathematics
 - Higher Level Chemistry
@@ -71,7 +71,7 @@ Currently working on: Competitive Programming. Interested in high performance GP
 </details>
 
 <details>
-<summary>Cambridge IGCSE (Jul. 2020 - May. 2022)</summary>
+<summary>&nbsp;Cambridge IGCSE (Jul. 2020 - May. 2022)</summary>
 - Computer Science
 - Additional Mathematics
 - International Mathematics
