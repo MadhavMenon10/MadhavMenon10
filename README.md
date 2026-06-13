@@ -92,7 +92,7 @@ Currently working on: Competitive Programming. Interested in high performance GP
 </details>
 <details>
   <summary>High School</summary>
-  <ul>
+  <ul style="list-style-type: none;">
     <li>
       <details>
         <summary>IB Diploma Programme (Jul. 2022 - May. 2024)</summary>
