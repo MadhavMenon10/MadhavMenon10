@@ -44,50 +44,53 @@ Currently working on: Competitive Programming. Interested in high performance GP
       <li>PHYS 214: University Physics: Quantum Physics</li>
     </ul>
   </ul>
-
-
-
-
-<details>
-  <summary>Spring 2025</summary>
-- CS 128: Intro to Computer Science II
-- MATH 314 H: Honours Intro to Higher Math
-- MATH 241: Calculus III
-- PHYS 212: University Physics: Electricity and Magnetism
-</details>
-
-<details>
-  <summary>Fall 2024</summary>
-- CS 124 H: Honours Intro to Computer Science I
-- MATH 231 E: Engineering Calculus II
-- PHYS 211: University Physics: Mechanics
-- LING 115: Language and Culture in India
-</details>
-</details>
-
+    <ul>
+    <li>Spring 2025</li>
+    <ul>
+      <li>CS 128: Intro to Computer Science II (C++)</li>
+      <li>MATH 314 H: Honours Intro to Higher Math</li>
+      <li>MATH 241: Calculus III</li>
+      <li>PHYS 212: University Physics: Electricity and Magnetism</li>
+    </ul>
+  </ul>
+  <ul>
+    <li>Fall 2024</li>
+    <ul>
+      <li>CS 124 H: Honours Intro to Computer Science I (Kotlin)</li>
+      <li>MATH 231 E: Engineering Calculus II</li>
+      <li>PHYS 211: University Physics: Mechanics</li>
+      <li>LING 115: Language and Culture in India</li>
+    </ul>
+  </ul>
 <details>
   <summary>High School</summary>
 <details>
-<summary>&nbsp;IB Diploma Programme (Jul. 2022 - May. 2024)</summary>
-- Higher Level Physics
-- Higher Level Mathematics
-- Higher Level Chemistry
-- Standard Level Economics
-- Standard Level English Language and Literature
-- Standard Level Spanish
-</details>
+  <ul>
+    <li>IB Diploma Programme (Jul. 2022 - May. 2024)</li>
+    <ul>
+      <li>Higher Level Physics</li>
+      <li>Higher Level Mathematics</li>
+      <li>Higher Level Chemistry</li>
+      <li>Standard Level Economics</li>
+      <li>Standard Level English Language and Literature</li>
+      <li>Standard Level Spanish</li>
+    </ul>
+  </ul>
+  <ul>
+    <li>Cambridge IGCSE (Jul. 2020 - May. 2022)</li>
+    <ul>
+      <li>Computer Science</li>
+      <li>Additional Mathematics</li>
+      <li>International Mathematics</li>
+      <li>Coordinated Science</li>
+      <li>Economics</li>
+      <li>Business Studies</li>
+      <li>English - First Language</li>
+      <li>Spanish - Foreign Language</li>
+    </ul>
+  </ul>
+  
 
-<details>
-<summary>&nbsp;Cambridge IGCSE (Jul. 2020 - May. 2022)</summary>
-- Computer Science
-- Additional Mathematics
-- International Mathematics
-- Coordinated Science
-- Economics
-- Business Studies
-- Spanish - Foreign Language
-- English - First Language
-</details>
 
 </details>
 ## Contact
