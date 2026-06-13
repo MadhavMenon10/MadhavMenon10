@@ -16,12 +16,69 @@ Currently working on: Competitive Programming. Interested in high performance GP
                 <ul style="list-style-type = none;">
                        <li>
                          <details>
-                          <summary>Fall 2026</summary>
+                          <summary>Fall 2026 (Upcoming)</summary>
                                   <ul>
                                           <li>CS 374: Intro to Algorithms and Models of Computation</li>
                                           <li>CS 411: Databases</li>
                                           <li>CS 357: Numerical Methods</li>
                                           <li>PHYS 435: Electromagnetic Fields I</li>
+                                          <li>MACS 100: Intro to Popular TV and Movies</li>
+                                  </ul>
+                        </details>
+                        </li>
+                </ul>
+                <ul style="list-style-type = none;">
+                       <li>
+                         <details>
+                          <summary>Spring 2026</summary>
+                                  <ul>
+                                          <li>CS 233: Computer Architecture</li>
+                                          <li>CS 222: Software Design Lab</li>
+                                          <li>MATH 442: Intro to Partial Differential Equations</li>
+                                          <li>MATH 461: Probability Theory</li>
+                                          <li>PHYS 325: Classical Mechanics I</li>
+                                          <li>PHYS 246: Intro to Computational Physics</li>
+                                  </ul>
+                        </details>
+                        </li>
+                </ul>
+               <ul style="list-style-type = none;">
+                       <li>
+                         <details>
+                          <summary>Fall 2025</summary>
+                                  <ul>
+                                          <li>CS 225 H: Honours Data Structures</li>
+                                          <li>MATH 416 H: Honours Abstract Linear Algebra</li>
+                                          <li>MATH 441: Differential Equations</li>
+                                          <li>PHYS 225: Relativity and Math Methods</li>
+                                          <li>PHYS 213: University Physics: Thermodynamics</li>
+                                          <li>PHSY 214: University Physics: Quantum Physics</li>
+                                  </ul>
+                        </details>
+                        </li>
+                </ul>
+                <ul style="list-style-type = none;">
+                       <li>
+                         <details>
+                          <summary>Spring 2025</summary>
+                                  <ul>
+                                          <li>CS 128: Intro to Computer Science II</li>
+                                          <li>MATH 314 H: Honours Intro to Higher Math</li>
+                                          <li>MATH 241: Calculus III</li>
+                                          <li>PHYS 212: University Physics: Electricity and Magnetism</li>
+                                  </ul>
+                        </details>
+                        </li>
+                </ul>
+                <ul style="list-style-type = none;">
+                       <li>
+                         <details>
+                          <summary>Spring 2025</summary>
+                                  <ul>
+                                          <li>CS 124 H: Honours Intro to Computer Science I</li>
+                                          <li>MATH 231 E: Engineering Calculus II</li>
+                                          <li>PHYS 211: University Physics: Mechanics</li>
+                                          <li>LING 115: Language and Culture in India</li>
                                   </ul>
                         </details>
                         </li>
@@ -30,12 +87,6 @@ Currently working on: Competitive Programming. Interested in high performance GP
                 
 
 <ul>
-        <li> Fall 2026 (upcoming): CS 374 (Intro to Algorithms and Models of Computation), CS 411 (Databases), CS 357 (Numerical Methods), PHYS 435 (Electromagnetic Fields I)
-        <li>Spring 2026 (current): CS 233 (Computer Architecture), CS 222 (Software Design Lab), MATH 442 (Intro to Partial Differential Equations), MATH 461 (Probability Theory), PHYS 325 (Classical Mechanics I), PHYS 246 (Intro to Computational Physics)</li>
-       <li>Fall 2025: CS 225 H (Honours Data Structures), MATH 416 H (Honours Abstract Linear Algebra), MATH 441 (Differential Equations), PHYS 225 (Relativity & Math Methods), PHYS 213 (University Physics: Thermodynamics), PHYS 214 (University Physics: Quantum Physics)</li>
-           <li>Spring 2025: CS 128 (Intro to CS II), MATH 314 H (Honours Intro to Higher Math), MATH 241 (Calculus III), PHYS 212 (University Physics: E&M)</li>
-    <li>Fall 2024: CS 124 H (Honours Intro to CS I),  MATH 231E (Engineering Calculus II),  PHYS 211 (University Physics: Mechanics),  LING 115 (Language and Culture in India)</li>
-
  
 </ul>
 </details>
