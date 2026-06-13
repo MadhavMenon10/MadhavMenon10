@@ -22,26 +22,31 @@ Currently working on: Competitive Programming. Interested in high performance GP
       <li>MACS 100: Intro to Popular TV and Movies</li>
     </ul>
   </ul>
+  <ul>
+      <li>Spring 2026</li>
+      <ul>
+      <li>CS 233: Computer Architecture</li>
+      <li>CS 222: Software Design Lab</li>
+      <li>MATH 442: Intro to Partial Differential Equations</li>
+      <li>MATH 461: Probability Theory</li>
+      <li>PHYS 325: Classical Mechanics I</li>
+      <li>PHYS 246: Intro to Computational Physics</li>
+    </ul>
+  </ul>
+  <ul>
+    <li>Fall 2025</li>
+    <ul>
+      <li>CS 225 H: Honours Data Structures</li>
+      <li>MATH 416 H: Honours Abstract Linear Algebra</li>
+      <li>MATH 441: Differential Equations</li>
+      <li>PHYS 225: Relativity and Math Methods</li>
+      <li>PHYS 213: University Physics: Thermodynamics</li>
+      <li>PHYS 214: University Physics: Quantum Physics</li>
+    </ul>
+  </ul>
 
-<details>
-  <summary>Spring 2026</summary>
-- CS 233: Computer Architecture
-- CS 222: Software Design Lab
-- MATH 442: Intro to Partial Differential Equations
-- MATH 461: Probability Theory
-- PHYS 325: Classical Mechanics I
-- PHYS 246: Intro to Computational Physics
-</details>
 
-<details>
-  <summary>Fall 2025</summary>
-- CS 225 H: Honours Data Structures
-- MATH 416 H: Honours Abstract Linear Algebra
-- MATH 441: Differential Equations
-- PHYS 225: Relativity and Math Methods
-- PHYS 213: University Physics: Thermodynamics
-- PHYS 214: University Physics: Quantum Physics
-</details>
+
 
 <details>
   <summary>Spring 2025</summary>
