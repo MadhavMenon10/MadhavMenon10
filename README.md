@@ -13,17 +13,20 @@ Currently working on: Competitive Programming. Interested in high performance GP
 
 <details>
 <summary>Undergraduate (Aug. 2024 - Present)</summary>
-        <details>
-                <ul style="list-style-type: none;">
-                       <li> <summary>Fall 2026</summary></li>
+                <ul>
+                       <li>
+                         <details>
+                        <summary>Fall 2026</summary>
+                                <ul>
+                                        <li>CS 374: Intro to Algorithms and Models of Computation</li>
+                                        <li>CS 411: Databases</li>
+                                        <li>CS 357: Numerical Methods</li>
+                                        <li>PHYS 435: Electromagnetic Fields I</li>
+                                </ul>
+                        </li>
                 </ul>
                 
-                <ul>
-                        <li>CS 374: Intro to Algorithms and Models of Computation</li>
-                        <li>CS 411: Databases</li>
-                        <li>CS 357: Numerical Methods</li>
-                        <li>PHYS 435: Electromagnetic Fields I</li>
-                </ul>
+                
         </details>
 <ul>
         <li> Fall 2026 (upcoming): CS 374 (Intro to Algorithms and Models of Computation), CS 411 (Databases), CS 357 (Numerical Methods), PHYS 435 (Electromagnetic Fields I)
