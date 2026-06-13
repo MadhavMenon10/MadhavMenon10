@@ -13,7 +13,7 @@ Currently working on: Competitive Programming. Interested in high performance GP
 
 <details>
 <summary>Undergraduate (Aug. 2024 - Present)</summary>
-                <ul style="list-style-type = none;">
+                <ul style="list-style-type: none;">
                        <li>
                          <details>
                           <summary>Fall 2026 (Upcoming)</summary>
@@ -27,7 +27,7 @@ Currently working on: Competitive Programming. Interested in high performance GP
                         </details>
                         </li>
                 </ul>
-                <ul style="list-style-type = none;">
+                <ul style="list-style-type: none;">
                        <li>
                          <details>
                           <summary>Spring 2026</summary>
@@ -42,7 +42,7 @@ Currently working on: Competitive Programming. Interested in high performance GP
                         </details>
                         </li>
                 </ul>
-               <ul style="list-style-type = none;">
+               <ul style="list-style-type: none;">
                        <li>
                          <details>
                           <summary>Fall 2025</summary>
@@ -57,7 +57,7 @@ Currently working on: Competitive Programming. Interested in high performance GP
                         </details>
                         </li>
                 </ul>
-                <ul style="list-style-type = none;">
+                <ul style="list-style-type: none;">
                        <li>
                          <details>
                           <summary>Spring 2025</summary>
@@ -70,7 +70,7 @@ Currently working on: Competitive Programming. Interested in high performance GP
                         </details>
                         </li>
                 </ul>
-                <ul style="list-style-type = none;">
+                <ul style="list-style-type: none;">
                        <li>
                          <details>
                           <summary>Spring 2025</summary>
@@ -91,29 +91,39 @@ Currently working on: Competitive Programming. Interested in high performance GP
 </ul>
 </details>
 <details>
-<summary>International Baccalaureate (Jul. 2022 - May. 2024)</summary>
-<ul>
-    <li>Higher Level Physics</li>
-    <li>Higher Level Mathematics</li>
-    <li>Higher Level Chemistry</li>
-    <li>Standard Level Economics</li>
-    <li>Standard Level English Language and Literature</li>
-    <li>Standard Level Spanish</li>
-</ul>
+  <summary>High School</summary>
+  <ul>
+    <li>
+      <details>
+        <summary>IB Diploma Programme (Jul. 2022 - May. 2024)</summary>
+        <ul>
+          <li>Higher Level Physics</li>
+          <li>Higher Level Mathematics</li>
+          <li>Higher Level Chemistry</li>
+          <li>Standard Level Economics</li>
+          <li>Standard Level English Language and Literature</li>
+          <li>Standard Level Spanish</li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>Cambridge IGCSE (Jul. 2020 - May. 2022)</summary>
+        <ul>
+            <li>Computer Science</li>
+            <li>Additional Mathematics</li>
+            <li>International Mathematics</li>
+            <li>Coordinated Science</li>
+            <li>Economics</li>
+            <li>Business Studies</li>
+            <li>Spanish - Foreign Language</li>
+            <li>English - First Language</li>
+        </ul>
+      </details>
+    </li>
+  </ul>
 </details>
 <details>
-<summary>Cambridge IGCSE (Jul. 2020 - May. 2022)</summary>
-<ul>
-    <li>Computer Science</li>
-    <li>Additional Mathematics</li>
-    <li>International Mathematics</li>
-    <li>Coordinated Science</li>
-    <li>Economics</li>
-    <li>Business Studies</li>
-    <li>Spanish - Foreign Language</li>
-    <li>English - First Language</li>
-</ul>
-</details>
 
 ## Contact
 You can reach me at my:
