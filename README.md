@@ -100,4 +100,4 @@ Currently working on: Competitive Programming. Interested in high performance GP
 
 ## Contact
 You can reach me at my:
-- LinkedIn: [https://www.linkedin.com/in/madhav-menon-867009217/](https://www.linkedin.com/in/madhav-menon-867009217/)
+- LinkedIn: [https://www.linkedin.com/in/madhav-anand-menon/](https://www.linkedin.com/in/madhav-anand-menon/)
