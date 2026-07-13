@@ -11,7 +11,7 @@ Currently working on: Competitive Programming. Interested in high performance GP
 
 ## Select Projects
 - **[GPU Visualiser](https://madhavmenon10.github.io/GPU-Visualiser/)**: A web-app that lets you visualise floorplans of different GPU architectures and learn more about each hardware component. Currently open-sourced and supports 8 GPUs from NVIDIA, AMD, and Intel.
-- **[SideQuest](https://chromewebstore.google.com/detail/sidequest/hgkkigjjnbjfbplckakbldnadnmepefm): Chrome extension that lets you highlight anything in a Claude reply and follow-up in a small side chat, without touching your main conversation. Runs on your own claude.ai account and No API key needed.
+- **[SideQuest](https://chromewebstore.google.com/detail/sidequest/hgkkigjjnbjfbplckakbldnadnmepefm)**: Chrome extension that lets you highlight anything in a Claude reply and follow-up in a small side chat, without touching your main conversation. Runs on your own claude.ai account and No API key needed.
 
 ## Courses Taken
 <details>
