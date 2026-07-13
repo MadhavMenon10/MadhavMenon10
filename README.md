@@ -2,7 +2,7 @@
 Undergrad majoring in Computer Science and Physics and minoring in Math @ University of Illinois Urbana-Champaign<br>
 
 ## About
-Currently working on: Competitive Programming. Interested in high performance GPU programming and low-level systems architecture.
+Interested in high performance computing, GPU acceleration, and low-level systems architecture.
 
 ## Experience
 - **[Valeo](https://www.valeo.com/en/)**
