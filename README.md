@@ -10,6 +10,7 @@ Interested in high performance computing, GPU acceleration, and low-level system
 - **[DigiAlert](https://digialert.com/)**: Designed and built custom CSPM that queries and visualises security metrics from AWS, including a real-time CIS v.5.0.0-based risk classification system for CloudTrail events
 
 ## Select Projects
+- **[CUDA Orderbook](https://github.com/MadhavMenon10/cuda-orderbook)**: A CUDA accelerated NASDAQ ITCH 5.0 order book reconstructor and backtester. Achieved reconstruction of 4.4M msg/sec and 10,000 trading configs backtested in 83.8s 
 - **[GPU Visualiser](https://madhavmenon10.github.io/GPU-Visualiser/)**: An open-source web-app that lets you visualise floorplans of different GPU architectures and learn more about each hardware component. Currently supports 8 GPUs from NVIDIA, AMD, and Intel.
 - **[SideQuest](https://chromewebstore.google.com/detail/sidequest/hgkkigjjnbjfbplckakbldnadnmepefm)**: Chrome extension that lets you highlight anything in a Claude reply and follow-up in a small side chat, without touching your main conversation. Runs on your own claude.ai account and No API key needed.
 
