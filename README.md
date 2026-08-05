@@ -12,7 +12,7 @@ Interested in high performance computing, GPU acceleration, and low-level system
 ## Select Projects
 - **[CUDA Orderbook](https://github.com/MadhavMenon10/cuda-orderbook)**: A CUDA accelerated NASDAQ ITCH 5.0 order book reconstructor and backtester. Achieved reconstruction of 4.4M msg/sec and 10,000 trading configs backtested in 83.8s.
 - **[SideQuest](https://chromewebstore.google.com/detail/sidequest/hgkkigjjnbjfbplckakbldnadnmepefm)**: Chrome extension that lets you highlight anything in a Claude reply and follow-up in a small side chat, without touching your main conversation. Runs on your own claude.ai account and No API key needed.
-- **[GPU Visualiser](https://madhavmenon10.github.io/GPU-Visualiser/)**: An open-source web-app that lets you visualise floorplans of different GPU architectures and learn more about each hardware component. Currently supports 8 GPUs from NVIDIA, AMD, and Intel.
+- **[GPU Visualiser](https://github.com/MadhavMenon10/gpu-visualiser)**: An open-source web-app that lets you visualise floorplans of different GPU architectures and learn more about each hardware component. Currently supports 8 GPUs from NVIDIA, AMD, and Intel.
 
 
 ## Courses Taken
