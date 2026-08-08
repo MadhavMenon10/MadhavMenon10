@@ -5,9 +5,9 @@ Undergrad majoring in Computer Science and Physics and minoring in Math @ Univer
 Interested in high performance computing, GPU acceleration, and low-level systems architecture.
 
 ## Experience
-- **[Valeo](https://www.valeo.com/en/)**
-- **[Disruption Lab](https://giesgroups.illinois.edu/disruptionlab/home/)**
-- **[DigiAlert](https://digialert.com/)**: Designed and built custom CSPM that queries and visualises security metrics from AWS, including a real-time CIS v.5.0.0-based risk classification system for CloudTrail events
+- **[Valeo](https://www.valeo.com/en/)**: Extended Kalman Filters
+- **[Disruption Lab](https://giesgroups.illinois.edu/disruptionlab/home/)**: RAG Pipelines
+- **[DigiAlert](https://digialert.com/)**: Custom AWS CSPMs
 
 ## Select Projects
 - **[CUDA Orderbook](https://github.com/MadhavMenon10/cuda-orderbook)**: A CUDA accelerated NASDAQ ITCH 5.0 order book reconstructor and backtester. Achieved reconstruction of 4.4M msg/sec and 10,000 trading configs backtested in 83.8s.
