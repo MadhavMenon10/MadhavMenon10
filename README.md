@@ -5,14 +5,14 @@ Undergrad majoring in Computer Science and Physics and minoring in Math @ Univer
 Interested in high performance computing, GPU acceleration, and low-level systems architecture.
 
 ## Experience
-- **[Valeo](https://www.valeo.com/en/)**: Extended Kalman Filters
-- **[Disruption Lab](https://giesgroups.illinois.edu/disruptionlab/home/)**: RAG Pipelines
-- **[DigiAlert](https://digialert.com/)**: Custom AWS CSPMs
+- **[Valeo](https://www.valeo.com/en/)**: Designed an extended Kalman Filter to characterize IMU bike angles under dynamic maneuvers
+- **[Disruption Lab](https://giesgroups.illinois.edu/disruptionlab/home/)**: Built a RAG pipeline powered by the Canvas API to identify career-ready skills taught in classes at UIUC
+- **[DigiAlert](https://digialert.com/)**: Built a custom AWS CSPM with CIS/NIST based risk classification to characterise overall cloud security posture for AWS assets
 
 ## Select Projects
 - **[CUDA Orderbook](https://github.com/MadhavMenon10/cuda-orderbook)**: A CUDA accelerated NASDAQ ITCH 5.0 order book reconstructor and backtester. Achieved reconstruction of 4.4M msg/sec and 10,000 trading configs backtested in 83.8s.
 - **[SideQuest](https://chromewebstore.google.com/detail/sidequest/hgkkigjjnbjfbplckakbldnadnmepefm)**: Chrome extension that lets you highlight anything in a Claude reply and follow-up in a small side chat, without touching your main conversation. Runs on your own claude.ai account and No API key needed.
-- **[GPU Visualiser](https://github.com/MadhavMenon10/gpu-visualiser)**: An open-source web-app that lets you visualise floorplans of different GPU architectures and learn more about each hardware component. Currently supports 8 GPUs from NVIDIA, AMD, and Intel.
+- **[GPU Visualiser](https://github.com/MadhavMenon10/gpu-visualiser)**: An open-source web-app that lets you visualize floorplans of different GPU architectures and learn more about each hardware component. Currently supports 8 GPUs from NVIDIA, AMD, and Intel.
 
 
 ## Courses Taken
@@ -44,8 +44,8 @@ Interested in high performance computing, GPU acceleration, and low-level system
   <ul>
     <li>Fall 2025
     <ul>
-      <li>CS 225 H: Honours Data Structures</li>
-      <li>MATH 416 H: Honours Abstract Linear Algebra</li>
+      <li>CS 225 H: Honors Data Structures</li>
+      <li>MATH 416 H: Honors Abstract Linear Algebra</li>
       <li>MATH 441: Differential Equations</li>
       <li>PHYS 225: Relativity and Math Methods</li>
       <li>PHYS 213: University Physics: Thermodynamics</li>
@@ -57,7 +57,7 @@ Interested in high performance computing, GPU acceleration, and low-level system
     <li>Spring 2025
     <ul>
       <li>CS 128: Intro to Computer Science II (C++)</li>
-      <li>MATH 314 H: Honours Intro to Higher Math</li>
+      <li>MATH 314 H: Honors Intro to Higher Math</li>
       <li>MATH 241: Calculus III</li>
       <li>PHYS 212: University Physics: Electricity and Magnetism</li>
     </ul>
@@ -66,7 +66,7 @@ Interested in high performance computing, GPU acceleration, and low-level system
   <ul>
     <li>Fall 2024
     <ul>
-      <li>CS 124 H: Honours Intro to Computer Science I (Kotlin)</li>
+      <li>CS 124 H: Honors Intro to Computer Science I (Kotlin)</li>
       <li>MATH 231 E: Engineering Calculus II</li>
       <li>PHYS 211: University Physics: Mechanics</li>
       <li>LING 115: Language and Culture in India</li>
