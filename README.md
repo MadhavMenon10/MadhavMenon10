@@ -1,5 +1,5 @@
 # Madhav Anand Menon
-Undergrad majoring in Computer Science and Physics and minoring in Math @ University of Illinois Urbana-Champaign<br>
+Undergrad majoring in Computer Science and Physics and minoring in Math @ UIUC<br>
 
 ## About
 Interested in high performance computing, GPU acceleration, and low-level systems architecture.
