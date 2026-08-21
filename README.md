@@ -107,5 +107,4 @@ Interested in high performance computing, GPU acceleration, and low-level system
 ## Contact
 You can reach me at my:
 - LinkedIn: [https://www.linkedin.com/in/madhav-anand-menon/](https://www.linkedin.com/in/madhav-anand-menon/)
-
-You can visit my personal website: [https://madhavmenon10.github.io/](https://madhavmenon10.github.io/)
+- Personal website: [https://madhavmenon10.github.io/](https://madhavmenon10.github.io/)
