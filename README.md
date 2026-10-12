@@ -24,7 +24,7 @@ Interested in high performance computing, GPU acceleration, and low-level system
        <li>Fall 2026 (Upcoming)
       <ul>
       <li>CS 374: Intro to Algorithms and Models of Computation</li>
-      <li>CS 411: Databases</li>
+      <li>CS 411: Database Systems</li>
       <li>CS 357: Numerical Methods I</li>
       <li>PHYS 435: Electromagnetic Fields I</li>
       <li>IE 421: High Frequency Trading Technology</li>
