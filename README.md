@@ -13,6 +13,7 @@ Interested in high performance computing, GPU acceleration, and low-level system
 ## Select Projects
 - **[GBDT Inference Engine](https://github.com/MadhavMenon10/gbdt-inference-engine)**: A custom inference engine for Gradient Boosted Decision Trees written in CUDA, benchmarked against XGBoost and NVIDIA RAPIDS' Forest Inference Library. Achieved up to 7x single sample latency speedup over XGBoost's C API across 10 ensembles.
 - **[CUDA Orderbook](https://github.com/MadhavMenon10/cuda-orderbook)**: A CUDA accelerated NASDAQ ITCH 5.0 order book reconstructor and backtester. Achieved reconstruction of 4.4M msg/sec and 10,000 trading configs backtested in 83.8s.
+- **[Numerical Wave Equation Solver](https://github.com/MadhavMenon10/numrel-wave-evolution)**: (1+1)D scalar wave equation solver using the method of lines, second/fourth-order finite differences, and RK4 time integration, with stability and convergence analysis
 - **[SideQuest](https://chromewebstore.google.com/detail/sidequest/hgkkigjjnbjfbplckakbldnadnmepefm)**: Chrome extension that lets you highlight anything in a Claude reply and follow-up in a small side chat, without touching your main conversation. Runs on your own claude.ai account and No API key needed.
 - **[GPU Visualiser](https://github.com/MadhavMenon10/gpu-visualiser)**: An open-source web-app that lets you visualize floorplans of different GPU architectures and learn more about each hardware component. Currently supports 8 GPUs from NVIDIA, AMD, and Intel.
 
