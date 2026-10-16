@@ -5,7 +5,7 @@ Undergrad majoring in Computer Science and Physics and minoring in Math @ UIUC<b
 Interested in high performance computing, GPU acceleration, and low-level systems architecture.
 
 ## Experience
-- **[Parallel Programming Lab](https://charm.cs.illinois.edu/)**: Research
+- **[Parallel Programming Lab](https://charm.cs.illinois.edu/)**: Researching adaptive runtime systems
 - **[Valeo](https://www.valeo.com/en/)**: Designed an extended Kalman Filter to characterize IMU bike angles under dynamic maneuvers
 - **[Disruption Lab](https://giesgroups.illinois.edu/disruptionlab/home/)**: Built a RAG pipeline powered by the Canvas API to identify career-ready skills taught in classes at UIUC
 - **[DigiAlert](https://digialert.com/)**: Built a custom AWS CSPM with CIS/NIST based risk classification to characterise overall cloud security posture for AWS assets
