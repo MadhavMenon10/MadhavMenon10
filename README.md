@@ -22,7 +22,18 @@ Interested in high performance computing, GPU acceleration, and low-level system
 <details>
   <summary>Undergraduate (Aug. 2024 - Present)</summary>
      <ul>
-       <li>Fall 2026 (Upcoming)
+       <li>Spring 2027 (Upcoming)
+      <ul>
+      <li>CS 341: Systems Programming</li>
+      <li>CS 446: Machine Learning</li>
+      <li>PHYS 446: Modern Computational Physics</li>
+      <li>STAT 400: Statistics and Probability I</li>
+      <li>CLCV 224: Greco-Roman Antiquity and US Minority Cultures</li>
+    </ul>
+         </li>
+  </ul>
+  <ul>
+       <li>Fall 2026 (Current)
       <ul>
       <li>CS 374: Intro to Algorithms and Models of Computation</li>
       <li>CS 411: Database Systems</li>
